@@ -14,7 +14,7 @@ I'm a **Full Full Stack Developer** passionate about building modern, responsive
 ### 🛠️ Backend
 - **Runtime Environment**: Node.js
 
-### 💾 Databases
+### 🗄 Databases
 - MongoDB, MySQL, PostgreSQL
 
 ### 🧩 Others
